@@ -1,0 +1,16 @@
+C:\Users\firen\Documents\Code\LAN-Mail\bin\Debug\net8.0-windows\LAN-Mail.exe
+C:\Users\firen\Documents\Code\LAN-Mail\bin\Debug\net8.0-windows\LAN-Mail.deps.json
+C:\Users\firen\Documents\Code\LAN-Mail\bin\Debug\net8.0-windows\LAN-Mail.runtimeconfig.json
+C:\Users\firen\Documents\Code\LAN-Mail\bin\Debug\net8.0-windows\LAN-Mail.dll
+C:\Users\firen\Documents\Code\LAN-Mail\bin\Debug\net8.0-windows\LAN-Mail.pdb
+C:\Users\firen\Documents\Code\LAN-Mail\obj\Debug\net8.0-windows\LAN_Mail.App.resources
+C:\Users\firen\Documents\Code\LAN-Mail\obj\Debug\net8.0-windows\LAN-Mail.csproj.GenerateResource.cache
+C:\Users\firen\Documents\Code\LAN-Mail\obj\Debug\net8.0-windows\LAN-Mail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\firen\Documents\Code\LAN-Mail\obj\Debug\net8.0-windows\LAN-Mail.AssemblyInfoInputs.cache
+C:\Users\firen\Documents\Code\LAN-Mail\obj\Debug\net8.0-windows\LAN-Mail.AssemblyInfo.cs
+C:\Users\firen\Documents\Code\LAN-Mail\obj\Debug\net8.0-windows\LAN-Mail.csproj.CoreCompileInputs.cache
+C:\Users\firen\Documents\Code\LAN-Mail\obj\Debug\net8.0-windows\LAN-Mail.dll
+C:\Users\firen\Documents\Code\LAN-Mail\obj\Debug\net8.0-windows\refint\LAN-Mail.dll
+C:\Users\firen\Documents\Code\LAN-Mail\obj\Debug\net8.0-windows\LAN-Mail.pdb
+C:\Users\firen\Documents\Code\LAN-Mail\obj\Debug\net8.0-windows\LAN-Mail.genruntimeconfig.cache
+C:\Users\firen\Documents\Code\LAN-Mail\obj\Debug\net8.0-windows\ref\LAN-Mail.dll
