@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LAN-Mail")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fcd696c5f1151016567021eeef7a9b0f26a18d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("LAN-Mail")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LAN-Mail")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

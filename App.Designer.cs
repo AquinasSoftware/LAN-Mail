@@ -39,6 +39,7 @@
             sendBtn = new Button();
             convoTbx = new RichTextBox();
             messageTbx = new TextBox();
+            connectBtn = new Button();
             SuspendLayout();
             // 
             // step1Lbl
@@ -149,11 +150,22 @@
             messageTbx.Size = new Size(555, 27);
             messageTbx.TabIndex = 12;
             // 
+            // connectBtn
+            // 
+            connectBtn.Location = new Point(344, 110);
+            connectBtn.Name = "connectBtn";
+            connectBtn.Size = new Size(94, 29);
+            connectBtn.TabIndex = 13;
+            connectBtn.Text = "Connect";
+            connectBtn.UseVisualStyleBackColor = true;
+            connectBtn.Click += connectBtn_Click;
+            // 
             // App
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(685, 470);
+            Controls.Add(connectBtn);
             Controls.Add(messageTbx);
             Controls.Add(convoTbx);
             Controls.Add(sendBtn);
@@ -186,5 +198,6 @@
         private Button sendBtn;
         private RichTextBox convoTbx;
         private TextBox messageTbx;
+        private Button connectBtn;
     }
 }
