@@ -107,8 +107,6 @@ namespace LAN_Mail
 
                     while (true)
                     {
-                        if (!active.Connected)
-                        {
                             Socket incoming = await listener.AcceptAsync();
                             if (incoming.RemoteEndPoint != null && !active.Connected && !connecting)
                             {
@@ -127,7 +125,6 @@ namespace LAN_Mail
                                 catch { }
                                 incoming.Close();
                             }
-                        }    
                     }
                 }
                 catch { }
@@ -184,10 +181,11 @@ namespace LAN_Mail
                 }
                 catch
                 {
-                    appendText("Connection failed.\nMake sure you entered the address correctly, the other person is listening and is not connected to someone else.\n", Color.Yellow);
+                    appendText("Connection Failed\nMake sure you entered the address correctly, the other person is listening and is not connected to someone else\n", Color.Purple);
                 }
-                finally {
-                    connecting = false; 
+                finally
+                {
+                    connecting = false;
                 }
             }
             else // Disconnect
